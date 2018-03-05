@@ -1,5 +1,5 @@
 # Reinforcement-learning
-In this repository I am gonna try to learn reinforcement learning and write some significant application of it.
+In this repository I am gonna try to learn reinforcement learning and implement some of its applications.
 
 **TODOS:**
 
